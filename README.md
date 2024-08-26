@@ -35,11 +35,7 @@ This project provides a bootloader for flashing firmware onto STM32F103C8T6 boar
   <img src="https://github.com/MohitGupta2021/CAN_Bootloader/blob/main/images/IMG_20240806_154637196~2.jpg" alt="Image 2" width="200" style="margin-right: 10px;"/>
   <img src="https://github.com/MohitGupta2021/CAN_Bootloader/blob/main/images/IMG_20240806_153738463~2.jpg" alt="Image 3" width="200"/>
 </p>
-### Documentation
 
-- **Bootloader Source Code**: Implementation details for CAN communication and firmware flashing.
-- **Firmware Example**: Demonstrates basic functionality.
-- **User Guide**: Instructions for setup, firmware upload, and troubleshooting.
 
 ### Contributing
 
